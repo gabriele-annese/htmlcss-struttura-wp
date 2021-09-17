@@ -1,0 +1,56 @@
+/* GENERAL */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+ /* UTILITY */
+
+.margin-top{
+    margin-top: 20px;
+}
+
+.pd{
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.clearfix::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+ /* HEADER */
+
+header {
+ background: #e579e6;
+  height: 100px; /*REMOVE ME */
+}
+
+/* MAIN */
+.section {
+    background-color: #e1d67a;
+    width: 100%;
+    height: 200px; /*REMOVE ME */
+}
+
+.main-content {
+    background: #abcfe7;
+    width: 100%;
+    height: 100px;
+}
+
+.content-float {
+    background: #abcfe7;
+    width: 100%;
+    height: 200px;
+}
