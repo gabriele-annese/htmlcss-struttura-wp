@@ -68,7 +68,8 @@ header {
 .box {
     width: 20%;
     height: 300px; /*REMOVE ME */
-    border: 10px solid #0087fe;
+    border-top: 10px solid #0087fe;
+    border-bottom: 10px solid #0087fe;;
 }
 
 .box-center {
