@@ -80,7 +80,8 @@ header {
 
 /* FOOTER */
 footer {
+    margin-top: 5px;
     background: #8801fe;
-     height: 50px; /*REMOVE ME */
+    height: 50px; /*REMOVE ME */
     margin-bottom: 20px;
 }
